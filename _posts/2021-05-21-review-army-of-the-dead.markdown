@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Review: Army of the Dead"
-date:   2021-05-21 23:57:00 -0400
+title: "Review: Army of the Dead"
+date: 2021-05-21 23:57:00 -0400
 categories: movies
 youtube-id: tI1JGPhYBS8
 published: true
@@ -15,7 +15,7 @@ This film is a gleeful, turn-off-your-brain ride that races toward excess, excee
 
 <!-- more -->
 
-***SPOILERS AHEAD***
+**SPOILERS AHEAD**
 
 I went in knowing that [Dave Bautista](https://www.imdb.com/name/nm1176985/) and [Tig Notaro](https://www.imdb.com/name/nm0449299/) were in the cast, but that was about it. Dave Bautista is well-placed as the lead. I think he comes across as thoughtful and physical in the role, but there’s nothing big here for him to dig into. I had no idea that Tig was a VERY late addition to the film, digitally [replacing Chris D’Elia](https://deadline.com/2021/05/army-of-the-dead-zack-deborah-snyder-recasting-chris-delia-tig-notaro-1234762457/) after multiple sexual harassment accusations against the actor. Tig Notaro was a highlight for me in the cast, so it’s interesting that she didn’t perform her scenes with the rest of the cast. Unfortunately, she is not in the film as much as I would’ve liked. The cast is introduced in a series of montage scenes that are somewhat unique in they represent their life before and after the zombie outbreak. It’s a bit plodding, but still interesting in the idea. [Garret Dillahunt](https://www.imdb.com/name/nm0226813/) was fun as the representative of their benefactor. There’s something about him that I find highly entertaining, but I couldn’t quite narrow it down. The rest of the cast is serviceable, but [Matthias Schweighöfer](https://www.imdb.com/name/nm0777788/) stood out as the safe cracker as he brought some levity to his scenes that helped the somewhat slow-pacing.
 

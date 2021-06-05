@@ -1,0 +1,61 @@
+---
+layout: post
+title: "WWDC 2021 Wishlist"
+date: 2021-06-05 19:13:07 -0400
+categories: movies
+published: true
+---
+
+I thought I would focus some of my attention on what I hope comes out of this year's WWDC. I'm actually not particularly hopeful to get anything big/revolutionary this year due to the following issues:
+
+ - iPad OS is unable to deliver any real payoff from hardward advancements over the past couple of years (pointer support is great, but with mediocre multitasking, work is still difficult).
+ - iOS has become a mature platform where evolution occurs in small steps.
+ - iPadOS & watchOS have little actual competition. 
+
+-----
+
+Despite that here's some features **I** would like to see hit each of the platforms:
+
+- iOS (iPhone specific or should exist in both iOS & iPadOS)
+  - Smart playlist support in Music
+  - Support for 3rd party Control Center components
+  - Support changing additional default apps (calendar, maps, contacts, etc.)
+  - 3rd Party U1 support
+  - Support for Photo keywords
+  - Smart album support for Photos
+  - HomeKit improvements (not sure what exectly, but the app could use a complete overhaul and I'm curious to see where [matter](https://buildwithmatter.com) takes things)
+  - Family AirTags where we can all track the item
+  - Loanable AirTags where tracking can be delegated to another users
+  - In Fitness, better exercise metrics (This is just one example. When I run, I tend to run 3+ miles. Let me compare pace for recent runs at the mile markers)
+
+    
+- iPad OS
+  - Widgets placeable anywhere on the home screen
+  - App Library functionality
+  - Proper external monitor support (full resolution and screen utilization)
+  - Multitasking improvement (easier manipulation of "windows" and app pairs)
+  - Terminal app for local, native shell
+  - Virtualization (run Linux VMs or containers to be able to do _real_ work on the iPad)
+  - Xcode, Final Cut Pro, Logic in some form for iPad
+  
+- macOS
+  - Above all, fix bugs and make macOS more functional in predictable ways.
+  - Make notifications _functional_ (no hidden controls at minimum)
+  - Support for 3rd party Control Center components
+  - Make the Music app functional (reduce hangs, AirPlay issues, performant behavior). It doesn't seem to function anywhere near as well as the iOS Music app
+  - Family photo libraries where photos can be seen by all family members
+  - Shortcuts (personally, I prefer traditional coding, but given that AppleScript isn't great at this point, Shortcuts would be the best option)
+  - Official Python support for Mac scripting (never going to happen, but I'd love it)
+  
+- watchOS
+  - Ability to mute/unmute under specific conditions (i.e. normal condition is muted, but unmute during exercise or when using AirPods)
+  - More exercise types in Apple Fitness+
+  - Allow the Watch to view info for recent workouts (last week maybe?)
+  - New health tracking like blood glucose, which might not help me much, but will surely aid some groups
+  
+- tvOS
+  - TV app (on all platforms) should make it easier to see what version of content I own (4k, HD, SD) and what is available for that content and then allow for paid upgrades
+  - For the movies store, if a new version of a title comes out (often just new cover art, no content change), don't hide that it is already owned in the store
+  - For Complete series, show episodes across all seasons as they were originally shown rather than shoving them all into one season
+  - Searchable Purchased content!
+  - Media library functionality where the user can override artwork, genre, etc. to customize the display of their content to their liking
