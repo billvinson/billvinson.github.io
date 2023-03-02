@@ -1,0 +1,6 @@
+{{ define "main" }}
+<h1>{{ .Title }}</h1>
+{{ range .Data.Pages }}
+  {{- partial "article_excerpt" . -}}
+  {{ end }}
+{{ end }}

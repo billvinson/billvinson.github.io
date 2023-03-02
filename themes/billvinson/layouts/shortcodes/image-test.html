@@ -1,0 +1,7 @@
+{{- with .Page.Resources.ByType "image" -}}
+{{- range . -}}
+  {{ $image := . }}
+  {{ $image_thumbnail := .Resize "450x" }}
+  <a href="{{ $image.Permalink }}" class="glightbox"><img src="{{ $image_thumbnail.Permalink }}"></a>
+  {{ end }}
+  {{ end }}

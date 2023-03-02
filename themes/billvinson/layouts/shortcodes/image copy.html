@@ -1,0 +1,7 @@
+{{ if (.Get "src") }}
+  <!-- {{ $image := (.Page.Resources.ByType "image").GetMatch (.Get "src") }} -->
+  {{ with (.Page.Resources.ByType "image").GetMatch (.Get "src")}}
+    {{ $image_thumbnail := .Resize "450x" }}
+    <a href="{{ .Permalink }}" class="glightbox"><img src="{{ $image_thumbnail.Permalink }}"></a>
+  {{ end }}
+{{ end }}

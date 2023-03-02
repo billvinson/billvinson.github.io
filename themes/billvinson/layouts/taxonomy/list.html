@@ -1,0 +1,8 @@
+{{ define "main" }}
+  <h1>{{ .Title }}</h1>
+  {{ range $key, $value := .Data.Terms.ByCount }}
+  {{ $name := $value.Name | urlize }}
+  {{ $count := $value.Count }}
+    <div><i data-feather="tag"></i>&nbsp;&nbsp;<a class="title" href="{{ $name }}">{{ $name }}</a> - {{ $count }}</div>
+  {{ end }}
+{{ end }}

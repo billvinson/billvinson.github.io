@@ -1,0 +1,20 @@
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- <link rel="stylesheet" type="text/css" href="/css/bootstrap.min.css"> -->
+    <link rel="stylesheet" type="text/css" href="/css/style.css">
+    <link rel="preconnect" href="https://fonts.bunny.net">
+    <link href="https://fonts.bunny.net/css?family=mulish:300" rel="stylesheet" />
+    <link href="https://fonts.bunny.net/css?family=holtwood-one-sc:400" rel="stylesheet" />
+    <link rel="stylesheet" href="/css/glightbox.min.css" />
+    <script src="/js/glightbox.min.js"></script>
+
+    <script type="module">
+      import '/js/glightbox.min.js';
+    
+      const lightbox = GLightbox({height: "100%"});
+    </script>
+    {{ $title := print .Site.Title " | " .Title }}
+    {{ if .IsHome }}{{ $title = .Site.Title }}{{ end }}
+    <title>{{ $title }}</title>
+</head>

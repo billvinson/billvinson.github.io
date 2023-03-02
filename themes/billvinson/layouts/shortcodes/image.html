@@ -1,0 +1,14 @@
+{{ $src := .Get "src" }}
+{{ $alt := .Get "alt" }}
+{{ if $src }}
+  {{ with (.Page.Resources.ByType "image").GetMatch (.Get "src")}}
+    {{ $image_thumbnail := .Resize "450x" }}
+    <a href="{{ .Permalink }}" class="glightbox">
+      {{ if $alt }}
+        <img src="{{ $image_thumbnail.Permalink }}" alt="{{ $alt }}">
+      {{ else }}
+        <img src="{{ $image_thumbnail.Permalink }}">
+      {{ end }}
+    </a>
+  {{ end }}
+{{ end }}
